@@ -1,2 +1,2 @@
-# Testing-PayPac
+# Testing
 Automation Scripts for Paypac
